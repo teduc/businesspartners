@@ -5,7 +5,7 @@ página web autocontida. Aplica o Teduc Design System (Laranja `#F69243`, Grafit
 Cinza-lilás `#A2A5CA`, tipografia Inter).
 
 **Versão 1.0 · adoção operacional em 19/09/2026**
-Validação institucional: Cintia Alves · Dúvidas e sugestões: contato@teduc.net.br
+Validação institucional: Cintia Alves · Dúvidas e sugestões: contato@teduc.com.br
 
 ## O que o manual contém
 
