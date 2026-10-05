@@ -41,8 +41,9 @@ preserva o capítulo aberto ao trocar de língua.
 | `fr.html` | Francês |
 | `documento.html` | Versão documento, em português, para leitura linear e impressão em PDF |
 
-Todos os arquivos são autocontidos: CSS, JavaScript e logos (em base64) estão dentro de
-cada um. A única dependência externa é a fonte Inter, carregada do Google Fonts, com
+Todos os arquivos são autocontidos: CSS, JavaScript, logos e o favicon (em base64) estão
+dentro de cada um. Os demais ícones ficam soltos na raiz, porque o iOS e o Android os
+buscam por arquivo. A única dependência externa é a fonte Inter, carregada do Google Fonts, com
 fallback para fontes do sistema. Os links entre idiomas são relativos, então funcionam em
 qualquer subdiretório.
 
